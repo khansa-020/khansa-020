@@ -9,17 +9,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/khansa020/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40" /></a>
-  <a href="https://www.youtube.com/@studentshelper305" target="https://www.youtube.com/@studentshelper305" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white" alt="YouTube" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/khansa020/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40" /></a><a href="https://www.youtube.com/@studentshelper305" target="https://www.youtube.com/@studentshelper305" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white" alt="YouTube" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">💬 Ask me about:</h3>
 <p align="left">
-  MERN, Data Analysis, ETL
+  MERN Stack, Software engineer, AiOps,DevOps, ETL pipelines
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
   <!-- Advanced Tools and Languages -->
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
