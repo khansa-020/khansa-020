@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/khansa020/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40" /></a>
-  <a href="https://www.youtube.com/@studentshelper305" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white" alt="YouTube" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/khansa020/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40" />www.linkedin.com/in/khansa020/ </a>
+  <a href="https://www.youtube.com/@studentshelper305" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white" alt="YouTube" width="40" height="40" />https://www.youtube.com/@studentshelper305 </a>
 </p>
 
 <h3 align="left">💬 Ask me about:</h3>
