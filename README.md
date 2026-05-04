@@ -8,9 +8,8 @@
 - 📫 How to reach me **khansaaraein@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/khansa020/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40" /></a><a href="https://www.youtube.com/@studentshelper305" target="https://www.youtube.com/@studentshelper305" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white" alt="YouTube" width="40" height="40" /></a>
-</p>
+<a href="https://www.youtube.com/@studentshelper305" target="https://www.youtube.com/@studentshelper305" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=white" alt="YouTube" width="40" height="40" /></a>
+
 
 <h3 align="left">💬 Ask me about:</h3>
 <p align="left">
@@ -36,8 +35,8 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khansa-020&show_icons=true&locale=en&layout=compact" alt="khansa-020" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khansa-020&show_icons=true&locale=en&layout=compact" alt="khansa-020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khansa-020&show_icons=true&locale=en" alt="khansa-020" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khansa-020&show_icons=true&locale=en" alt="khansa-020" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khansa-020&" alt="khansa-020" /></p>
